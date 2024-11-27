@@ -1,0 +1,14 @@
+c:\users\nancy\documents\visual studio 2017\Projects\Cafemanagement\Cafemanagement\bin\Debug\Cafemanagement.exe.config
+c:\users\nancy\documents\visual studio 2017\Projects\Cafemanagement\Cafemanagement\bin\Debug\Cafemanagement.exe
+c:\users\nancy\documents\visual studio 2017\Projects\Cafemanagement\Cafemanagement\bin\Debug\Cafemanagement.pdb
+c:\users\nancy\documents\visual studio 2017\Projects\Cafemanagement\Cafemanagement\bin\Debug\Cafemanagement.xml
+c:\users\nancy\documents\visual studio 2017\Projects\Cafemanagement\Cafemanagement\obj\Debug\Cafemanagement.vbprojResolveAssemblyReference.cache
+c:\users\nancy\documents\visual studio 2017\Projects\Cafemanagement\Cafemanagement\obj\Debug\Cafemanagement.Login.resources
+c:\users\nancy\documents\visual studio 2017\Projects\Cafemanagement\Cafemanagement\obj\Debug\Cafemanagement.Items.resources
+c:\users\nancy\documents\visual studio 2017\Projects\Cafemanagement\Cafemanagement\obj\Debug\Cafemanagement.Resources.resources
+c:\users\nancy\documents\visual studio 2017\Projects\Cafemanagement\Cafemanagement\obj\Debug\Cafemanagement.Order.resources
+c:\users\nancy\documents\visual studio 2017\Projects\Cafemanagement\Cafemanagement\obj\Debug\Cafemanagement.Vieworders.resources
+c:\users\nancy\documents\visual studio 2017\Projects\Cafemanagement\Cafemanagement\obj\Debug\Cafemanagement.vbproj.GenerateResource.Cache
+c:\users\nancy\documents\visual studio 2017\Projects\Cafemanagement\Cafemanagement\obj\Debug\Cafemanagement.exe
+c:\users\nancy\documents\visual studio 2017\Projects\Cafemanagement\Cafemanagement\obj\Debug\Cafemanagement.xml
+c:\users\nancy\documents\visual studio 2017\Projects\Cafemanagement\Cafemanagement\obj\Debug\Cafemanagement.pdb
